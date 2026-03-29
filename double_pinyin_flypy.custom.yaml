@@ -1,0 +1,4 @@
+patch:
+  switches/@1/states: [ 。，, ．， ]
+  switches/@1/reset: 1 # 设置默认为英文标点符号
+  switches/@0/reset: 1 # 设置默认为英文输入法
